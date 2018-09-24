@@ -7,3 +7,4 @@ Sample
 abc
 def
 add feature for feature 1
+add feature for feature 2
